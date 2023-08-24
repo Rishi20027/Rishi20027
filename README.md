@@ -11,7 +11,7 @@
 <h4 align="center">🔭 I’m currently focusing on Placement Career Jobs</h4>
 <hr>
 <h3 align="center">Current Status</h3><hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishi20027" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RishikeshKumar" /></a>
 <br>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
 <p align="left">
